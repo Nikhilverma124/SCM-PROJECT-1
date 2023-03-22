@@ -7,3 +7,4 @@ void Riksha();
 void Delete();
 void ShowDetail();
 int nor=0,nob=0,noc=0,amount=0,count=0;
+this one is first edited file .
